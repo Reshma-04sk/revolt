@@ -1,0 +1,14 @@
+# ReVolt — AI-Powered Lithium-Ion Battery Reuse & Recycling Management Platform
+Tagline: "Give Every Battery a Second Life."
+RMK ReVolt Hackathon Finalist Prototype
+
+## Quick Launch
+Run the platform locally:
+```bash
+uv run uvicorn src.apps.api.main:app --host 127.0.0.1 --port 8000
+```
+Open in browser:
+- Web Application: http://127.0.0.1:8000/
+- API Docs (Swagger): http://127.0.0.1:8000/docs
+
+Full documentation available in REVOLT_README.md.
