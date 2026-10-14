@@ -49,3 +49,7 @@ revolt_data.backup.json
 revolt_data.audit_backup_*.json
 *.tmp
 scratch/
+# ReVolt local data
+revolt_data.json
+revolt_data.backup.json
+revolt_data.audit_backup_*.json
